@@ -1,0 +1,15 @@
+Course Title: Machine Learning Fundamentals
+Course Link: https://example.com/ml-course
+Course Instructor: John Doe
+
+Lesson 0: Introduction to Machine Learning
+Lesson Link: https://example.com/ml-course/lesson-0
+Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. In supervised learning, we train models using labeled data to make predictions. This lesson covers the fundamental concepts and terminology used in machine learning.
+
+Lesson 1: Linear Regression
+Lesson Link: https://example.com/ml-course/lesson-1
+Linear regression is a fundamental machine learning algorithm used for predicting continuous values. It assumes a linear relationship between input features and the output variable. The algorithm finds the best-fitting line through the data points by minimizing the sum of squared errors. We will implement linear regression from scratch and learn about concepts like cost functions, gradient descent, and model evaluation metrics.
+
+Lesson 2: Classification Algorithms
+Lesson Link: https://example.com/ml-course/lesson-2
+Classification algorithms are used to predict categorical outcomes. Common classification algorithms include logistic regression, decision trees, and support vector machines. Logistic regression uses a sigmoid function to output probabilities between 0 and 1. Decision trees split data based on feature values to create a tree-like model of decisions. We will explore how to evaluate classification models using metrics like accuracy, precision, recall, and F1-score.

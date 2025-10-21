@@ -1,0 +1,15 @@
+Course Title: Introduction to Python Programming
+Course Link: https://example.com/python-course
+Course Instructor: Jane Smith
+
+Lesson 0: Getting Started with Python
+Lesson Link: https://example.com/python-course/lesson-0
+Python is a high-level programming language known for its simplicity and readability. In this lesson, we will cover the basics of Python syntax, including variables, data types, and basic operators. Python uses indentation to define code blocks, which makes the code clean and easy to read. We will also discuss how to install Python on your computer and set up your development environment.
+
+Lesson 1: Control Flow and Functions
+Lesson Link: https://example.com/python-course/lesson-1
+Control flow statements allow you to control the execution of your code based on conditions. We will cover if-else statements, loops (for and while), and how to define functions in Python. Functions are reusable blocks of code that perform specific tasks. We will also discuss function parameters, return values, and the concept of scope in Python.
+
+Lesson 2: Data Structures
+Lesson Link: https://example.com/python-course/lesson-2
+Python provides several built-in data structures including lists, tuples, dictionaries, and sets. Lists are ordered collections that can contain elements of different types. Dictionaries store key-value pairs and provide fast lookup. We will explore how to create, modify, and iterate through these data structures. Understanding data structures is crucial for efficient programming.

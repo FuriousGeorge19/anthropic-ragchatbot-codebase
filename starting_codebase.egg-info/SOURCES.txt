@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+backend/ai_generator.py
+backend/app.py
+backend/config.py
+backend/document_processor.py
+backend/models.py
+backend/rag_system.py
+backend/search_tools.py
+backend/session_manager.py
+backend/vector_store.py
+starting_codebase.egg-info/PKG-INFO
+starting_codebase.egg-info/SOURCES.txt
+starting_codebase.egg-info/dependency_links.txt
+starting_codebase.egg-info/requires.txt
+starting_codebase.egg-info/top_level.txt
